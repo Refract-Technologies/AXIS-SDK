@@ -14,7 +14,7 @@
 
 # Example #
 
-- Example can be found [here](https://github.com/Refract-Technologies/AXIS-SDK/example/example.cpp)
+- Example can be found [here](https://github.com/Refract-Technologies/AXIS-SDK/tree/master/example/example.cpp)
 
 # Documentation #
 
