@@ -1,6 +1,24 @@
 var group___enums =
 [
-    [ "Refract::AXIS::AxisRuntimeErrors", "group___enums.html#ga08c6339ac1c1699f03e012a6e71d4d28", null ],
+    [ "Refract::AXIS::AxisRuntimeErrors", "group___enums.html#ga08c6339ac1c1699f03e012a6e71d4d28", [
+      [ "Refract::AXIS::OK", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28a358daaec718cf649048e0b01388d48e6", null ],
+      [ "Refract::AXIS::PacketCallbackNotSet", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28acc6c868e5c6b513a4daf6b6840f71c61", null ],
+      [ "Refract::AXIS::InvalidDongleCommand", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28aedf23681b2eb4fb1389c7ba63a1c5290", null ],
+      [ "Refract::AXIS::HubTimeout", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28a77982e5e82aaf6dd1a0b45321ec7ce15", null ],
+      [ "Refract::AXIS::InvalidIPAddress", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28a5c38ca5fc9f226e90af7f5d2d5730774", null ],
+      [ "Refract::AXIS::InvalidParameter", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28add40a116c7077610508764a4138aca56", null ],
+      [ "Refract::AXIS::NoLANAdapter", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28a94dccde6f02fe138707b69e9aa5b93be", null ],
+      [ "Refract::AXIS::HTTPError", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28a44c1b09b580b30b575bc115d6c15eb4b", null ],
+      [ "Refract::AXIS::HTTPException", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28a335211b56478d74a2b68172158a67f7e", null ],
+      [ "Refract::AXIS::SocketError", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28a3485cd865a8356efbcbb73bf87387920", null ],
+      [ "Refract::AXIS::SocketException", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28a03c08c99ff94216e266856b874f51fcc", null ],
+      [ "Refract::AXIS::PreviousOpInProgress", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28aca3aa8eec5c72e414344881eb165ee4e", null ],
+      [ "Refract::AXIS::DongleNotConnected", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28a7d58e3df7ff33e839e872dcb868c5e73", null ],
+      [ "Refract::AXIS::SerialPortError", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28aef63828370d36034b6dc122b8d55dbe3", null ],
+      [ "Refract::AXIS::InternalError", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28a578bb0eb9dee97066ebc90a557939023", null ],
+      [ "Refract::AXIS::SDKNotStarted", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28a24ef4b8061f52862ac3a6f00441e6543", null ],
+      [ "Refract::AXIS::NoSubnet", "group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28a8db19c918acf0e95efaeef7ab32073ba", null ]
+    ] ],
     [ "Refract::AXIS::AxisPacketTypes", "group___enums.html#gaa00d74467cd986e1c8f807733fcf72eb", [
       [ "Refract::AXIS::IMUData", "group___enums.html#ggaa00d74467cd986e1c8f807733fcf72ebad15a6178f5c85aa99be701deb7f51fae", null ],
       [ "Refract::AXIS::VisibleNodes", "group___enums.html#ggaa00d74467cd986e1c8f807733fcf72ebaa5adc93fb208c0aa0db6e5580d8bcd4a", null ],
@@ -16,7 +34,26 @@ var group___enums =
       [ "Refract::AXIS::NodeConfigResponse", "group___enums.html#ggaa00d74467cd986e1c8f807733fcf72eba8455de8c9a7b521c72ef8f32fedc4b96", null ],
       [ "Refract::AXIS::SkeletonData", "group___enums.html#ggaa00d74467cd986e1c8f807733fcf72ebace1bbc3ef59a301d2493b25058e53117", null ]
     ] ],
-    [ "Refract::AXIS::AxisNodePositions", "group___enums.html#ga78e7b670eaff37755d3ccd8b0b52738f", null ],
+    [ "Refract::AXIS::AxisNodePositions", "group___enums.html#ga78e7b670eaff37755d3ccd8b0b52738f", [
+      [ "Refract::AXIS::RightThigh", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fa260fc0de20d1169061a9897264ced4bb", null ],
+      [ "Refract::AXIS::RightCalf", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738faa9f4125b8835a1d8ef6238a3ac845527", null ],
+      [ "Refract::AXIS::LeftThigh", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fa17022e46b4f6ca6356ea149e10f28bd3", null ],
+      [ "Refract::AXIS::LeftCalf", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fa0279550a3b116a1c0a62dcf53c18cf8e", null ],
+      [ "Refract::AXIS::RightUpperArm", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fac2efed2943866f08fdcb9a6b02412a3c", null ],
+      [ "Refract::AXIS::RightForearm", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fa4ebad6dab0ccece7597db0ffc53fdea5", null ],
+      [ "Refract::AXIS::LeftUpperArm", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fabd9db3a1407c6d6d9b3915ba7c61278e", null ],
+      [ "Refract::AXIS::LeftForearm", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fac9cd8154986858c272a17a479b0777df", null ],
+      [ "Refract::AXIS::Spine", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738faa27272b87ad8c3352678f7ac123f6340", null ],
+      [ "Refract::AXIS::RightFoot", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738faa5ec5485021d6f0ca8372adfe5e6940e", null ],
+      [ "Refract::AXIS::LeftFoot", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738faa5fa4d7565901b2ca7441018af799c95", null ],
+      [ "Refract::AXIS::RightHand", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fa346a4460cbef9f605a56a11389965f65", null ],
+      [ "Refract::AXIS::LeftHand", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738facfe1d4fe4d6801c5a7d011d2e77448f8", null ],
+      [ "Refract::AXIS::RightShoulder", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fa8f2c149466dea4dffb56ba8baff9a6f9", null ],
+      [ "Refract::AXIS::LeftShoulder", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fa1ecd3a4577a211a1130107988eb07410", null ],
+      [ "Refract::AXIS::Head", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fac9ed08d5d07308b1e6b8a59b5babb359", null ],
+      [ "Refract::AXIS::Hip", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fa0d26d0e27e1c6d4c0e72437953fca828", null ],
+      [ "Refract::AXIS::Unassigned", "group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fab57afd29a146b5f95d294d2edfd24012", null ]
+    ] ],
     [ "Refract::AXIS::AxisNodeOperationModes", "group___enums.html#ga0d2b20a3adf04f6c3e4cb5508669c5e6", [
       [ "Refract::AXIS::Unsupported", "group___enums.html#gga0d2b20a3adf04f6c3e4cb5508669c5e6a9e4a8223bbf9609b715f358142b2200a", null ],
       [ "Refract::AXIS::Fusion", "group___enums.html#gga0d2b20a3adf04f6c3e4cb5508669c5e6ada0910f89064f0d623c46e69387dc615", null ],
@@ -55,8 +92,13 @@ var group___enums =
       [ "Refract::AXIS::DEV", "group___enums.html#ggace6a2b6f346a1c6a6125893b3377de4ca5808e0425270ec2bd2ef73b887f7f9e5", null ],
       [ "Refract::AXIS::Power", "group___enums.html#ggace6a2b6f346a1c6a6125893b3377de4caef6ec7d50fc19a833cc3887a82332a98", null ]
     ] ],
-    [ "Refract::AXIS::AxisNodeConfigDevParams", "group___enums.html#gad99c2c4af03ed1a9e417ca564788338c", null ],
-    [ "Refract::AXIS::AxisNodeConfigPowerParams", "group___enums.html#gabb993da8b5482b3369f0c32d0cb10b29", null ],
+    [ "Refract::AXIS::AxisNodeConfigDevParams", "group___enums.html#gad99c2c4af03ed1a9e417ca564788338c", [
+      [ "Refract::AXIS::DevPacketBitflags", "group___enums.html#ggad99c2c4af03ed1a9e417ca564788338caec4a618a6fe6b7ffe8b487062e0e495c", null ]
+    ] ],
+    [ "Refract::AXIS::AxisNodeConfigPowerParams", "group___enums.html#gabb993da8b5482b3369f0c32d0cb10b29", [
+      [ "Refract::AXIS::TransmissionPower", "group___enums.html#ggabb993da8b5482b3369f0c32d0cb10b29a3f5116e81a38c874092ac4d225598c32", null ],
+      [ "Refract::AXIS::TransmissionFrequency", "group___enums.html#ggabb993da8b5482b3369f0c32d0cb10b29ade35cd9104f07b01e7c57f619ba05157", null ]
+    ] ],
     [ "Refract::AXIS::AxisVmcConfigBones", "group___enums.html#gabaa08d586f562693a91c6a7fde7a4317", [
       [ "Refract::AXIS::VMCHips", "group___enums.html#ggabaa08d586f562693a91c6a7fde7a4317a969233182ad6660dd70f676b59dfe544", null ],
       [ "Refract::AXIS::VMCLeftUpperLeg", "group___enums.html#ggabaa08d586f562693a91c6a7fde7a4317ac6b1d71add13c3d02deb4713aef16939", null ],
@@ -80,5 +122,32 @@ var group___enums =
       [ "Refract::AXIS::VMCRightHand", "group___enums.html#ggabaa08d586f562693a91c6a7fde7a4317ab996f0c0242a7d086eaec67b5f37df7e", null ],
       [ "Refract::AXIS::VMC_CONFIG_COUNT", "group___enums.html#ggabaa08d586f562693a91c6a7fde7a4317ac189f3e6131a0f7a08749a33ca334f01", null ]
     ] ],
-    [ "Refract::AXIS::AxisSkeletonJoints", "group___enums.html#ga4de683b2edd92f4cf3a6d38dd7bdd761", null ]
+    [ "Refract::AXIS::AxisSkeletonJoints", "group___enums.html#ga4de683b2edd92f4cf3a6d38dd7bdd761", [
+      [ "Refract::AXIS::SKHMD", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761aea4877832c200b055c34927cd8b30dd8", null ],
+      [ "Refract::AXIS::SKHead", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761aa70c440abab11d72b1b036f9ebac5298", null ],
+      [ "Refract::AXIS::SKNeck", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761ae35e115923ee83cf6a2f866230cfab65", null ],
+      [ "Refract::AXIS::SKUpperSpine", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761ae3ebc37bec1303aec29ba214626c9167", null ],
+      [ "Refract::AXIS::SKMiddleSpine", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761ad403f404e17700dd4ceb74aa6505871e", null ],
+      [ "Refract::AXIS::SKLowerSpine", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761a62516619a27686569170911487384d0f", null ],
+      [ "Refract::AXIS::SKHip", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761a154d342d1ae514dd4bdec13cb754c5c1", null ],
+      [ "Refract::AXIS::SKRightHip", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761a7c982dfdc769112b07a64076a8a134fa", null ],
+      [ "Refract::AXIS::SKRightKnee", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761a37cab6ac13a9a64f673b445bdc6cb33c", null ],
+      [ "Refract::AXIS::SKRightAnkle", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761ae0d5e5ad94c7dad3b1b22bfd32839b65", null ],
+      [ "Refract::AXIS::SKRightFoot", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761a7d49f1c98a61822bab5ed72203107878", null ],
+      [ "Refract::AXIS::SKLeftHip", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761a8b14949eec45593abbb526badc035938", null ],
+      [ "Refract::AXIS::SKLeftKnee", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761a28d83c0b62b9d6a914083058bf0c26cb", null ],
+      [ "Refract::AXIS::SKLeftAnkle", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761afe660021ddf763f98827d8dede3beaaf", null ],
+      [ "Refract::AXIS::SKLeftFoot", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761a9f04f710e35a30c598fa2d58389da497", null ],
+      [ "Refract::AXIS::SKRightScapula", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761ad1fffed4ffb5df070dbd5daa6d19d44c", null ],
+      [ "Refract::AXIS::SKRightShoulder", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761ab1b408b1f5d3931678eb16a02107ce4c", null ],
+      [ "Refract::AXIS::SKRightElbow", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761ac4afdb897fa315b238383cc18fe088dd", null ],
+      [ "Refract::AXIS::SKRightWrist", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761a51e1eb27bba1fa4a3a8ca1beaadb2bd1", null ],
+      [ "Refract::AXIS::SKRightHand", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761a8e94afb6f8f08d02f49b45c3bc150969", null ],
+      [ "Refract::AXIS::SKLeftScapula", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761ad8eeb38b74f4264d4ab90165633e5fb3", null ],
+      [ "Refract::AXIS::SKLeftShoulder", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761a210e1b83324dd66a733c2cfff838eb65", null ],
+      [ "Refract::AXIS::SKLeftElbow", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761a06fa821a6f17e8dab70e4dc0d205b695", null ],
+      [ "Refract::AXIS::SKLeftWrist", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761af21dcb6049a14de3a5f0f64e0372ea09", null ],
+      [ "Refract::AXIS::SKLeftHand", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761a73a329cb43af9bd6bb8e4757433d17a1", null ],
+      [ "Refract::AXIS::SK_JOINT_COUNT", "group___enums.html#gga4de683b2edd92f4cf3a6d38dd7bdd761abf4df9b1b68f09d10157430d3d1ecb10", null ]
+    ] ]
 ];

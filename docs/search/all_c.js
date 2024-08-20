@@ -37,5 +37,7 @@ var searchData=
   ['nodessuitinfo_34',['nodesSuitInfo',['../struct_refract_1_1_a_x_i_s_1_1_suit_info__t.html#a4633cbff93431f81d471efb118b5ef8c',1,'Refract::AXIS::SuitInfo_t']]],
   ['nodesuitinfo_5ft_35',['NodeSuitInfo_t',['../struct_refract_1_1_a_x_i_s_1_1_node_suit_info__t.html',1,'Refract::AXIS']]],
   ['nodeversion_5ft_36',['NodeVersion_t',['../struct_refract_1_1_a_x_i_s_1_1_node_version__t.html',1,'Refract::AXIS']]],
-  ['nodeversions_37',['nodeVersions',['../struct_refract_1_1_a_x_i_s_1_1_versions_info__t.html#a39c3455f32fbc6da013b4c331fed473b',1,'Refract::AXIS::VersionsInfo_t']]]
+  ['nodeversions_37',['nodeVersions',['../struct_refract_1_1_a_x_i_s_1_1_versions_info__t.html#a39c3455f32fbc6da013b4c331fed473b',1,'Refract::AXIS::VersionsInfo_t']]],
+  ['nolanadapter_38',['NoLANAdapter',['../group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28a94dccde6f02fe138707b69e9aa5b93be',1,'Refract::AXIS']]],
+  ['nosubnet_39',['NoSubnet',['../group___enums.html#gga08c6339ac1c1699f03e012a6e71d4d28a8db19c918acf0e95efaeef7ab32073ba',1,'Refract::AXIS']]]
 ];

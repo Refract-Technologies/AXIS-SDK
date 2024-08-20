@@ -1,9 +1,13 @@
 var searchData=
 [
-  ['setwifi_0',['SetWifi',['../group___enums.html#ggabaad806680f24df9acbd50d6e72ad5f9a191157acd509532952a332211a1ef97c',1,'Refract::AXIS']]],
-  ['setwifiresponse_1',['SetWifiResponse',['../group___enums.html#ggaa00d74467cd986e1c8f807733fcf72ebabf295eaed66c41008a96480f7b2fafe2',1,'Refract::AXIS']]],
-  ['shutdown_2',['Shutdown',['../group___enums.html#ggabaad806680f24df9acbd50d6e72ad5f9a5c3af6424a1c24d32d8507d0ae7945bb',1,'Refract::AXIS']]],
-  ['skeletondata_3',['SkeletonData',['../group___enums.html#ggaa00d74467cd986e1c8f807733fcf72ebace1bbc3ef59a301d2493b25058e53117',1,'Refract::AXIS']]],
-  ['suitinfo_4',['SuitInfo',['../group___enums.html#ggaa00d74467cd986e1c8f807733fcf72eba2a2f9e427cde0e984559fb1d9c05f594',1,'Refract::AXIS']]],
-  ['suitinfo_5',['Suitinfo',['../group___enums.html#ggabaad806680f24df9acbd50d6e72ad5f9a89c645c554d6279b409ad1db17ce74eb',1,'Refract::AXIS']]]
+  ['reboot_0',['Reboot',['../group___enums.html#ggabaad806680f24df9acbd50d6e72ad5f9a09bfcd78b8eb851b3a2a3cdb8356ba91',1,'Refract::AXIS']]],
+  ['reportbatt_1',['ReportBatt',['../group___enums.html#ggaa00d74467cd986e1c8f807733fcf72ebac51a70311aaa5137a3971341ba83925e',1,'Refract::AXIS']]],
+  ['reportwifi_2',['ReportWifi',['../group___enums.html#ggaa00d74467cd986e1c8f807733fcf72eba1c0ee0565bb559695baac8d46f540989',1,'Refract::AXIS']]],
+  ['rightcalf_3',['RightCalf',['../group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738faa9f4125b8835a1d8ef6238a3ac845527',1,'Refract::AXIS']]],
+  ['rightfoot_4',['RightFoot',['../group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738faa5ec5485021d6f0ca8372adfe5e6940e',1,'Refract::AXIS']]],
+  ['rightforearm_5',['RightForearm',['../group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fa4ebad6dab0ccece7597db0ffc53fdea5',1,'Refract::AXIS']]],
+  ['righthand_6',['RightHand',['../group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fa346a4460cbef9f605a56a11389965f65',1,'Refract::AXIS']]],
+  ['rightshoulder_7',['RightShoulder',['../group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fa8f2c149466dea4dffb56ba8baff9a6f9',1,'Refract::AXIS']]],
+  ['rightthigh_8',['RightThigh',['../group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fa260fc0de20d1169061a9897264ced4bb',1,'Refract::AXIS']]],
+  ['rightupperarm_9',['RightUpperArm',['../group___enums.html#gga78e7b670eaff37755d3ccd8b0b52738fac2efed2943866f08fdcb9a6b02412a3c',1,'Refract::AXIS']]]
 ];

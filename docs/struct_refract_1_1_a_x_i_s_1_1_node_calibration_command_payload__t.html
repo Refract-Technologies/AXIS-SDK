@@ -32,7 +32,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">axis-sdk<span id="projectnumber">&#160;2.4.0</span>
+   <div id="projectname">axis-sdk<span id="projectnumber">&#160;2.4.1</span>
    </div>
    <div id="projectbrief">API for axis-sdk</div>
   </td>
@@ -183,19 +183,19 @@ Public Attributes</h2></td></tr>
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab89c85b83fd24423e8c4c632f275555daa5e8b8897d7bc52cca17a86b359018a9" name="ab89c85b83fd24423e8c4c632f275555daa5e8b8897d7bc52cca17a86b359018a9"></a>TableFloor&#160;</td><td class="fielddoc"><p>A more accurate type of calibration that requires 2 steps. </p>
 <ul>
 <li>Put nodes flat on the table/floor, facing forward.</li>
-<li>Call this command with <a class="el" href="#aaf848e040255da74c18999298c2cc872aee1459f41d98e6c8e5ce96c2f2d82334" title="Only calibrate the reference frame.">CalibrationCommandTypes::CalibrateFrame</a> type</li>
-<li>Put nodes on the body</li>
-<li>Call this command with <a class="el" href="#aaf848e040255da74c18999298c2cc872a78213bde5be2700452398b1c86019bc1" title="Only zero.">CalibrationCommandTypes::Zero</a> type </li>
+<li>Send this command with <a class="el" href="#aaf848e040255da74c18999298c2cc872aee1459f41d98e6c8e5ce96c2f2d82334" title="Only calibrate the reference frame.">CalibrationCommandTypes::CalibrateFrame</a> type</li>
+<li>Put nodes on the body, ask user to do a T-Pose and face forward</li>
+<li>Send this command with <a class="el" href="#aaf848e040255da74c18999298c2cc872a78213bde5be2700452398b1c86019bc1" title="Only zero.">CalibrationCommandTypes::Zero</a> type </li>
 </ul>
 </td></tr>
 <tr><td class="fieldname"><a id="ab89c85b83fd24423e8c4c632f275555da2f585884cbb7243e39d0509d0381e397" name="ab89c85b83fd24423e8c4c632f275555da2f585884cbb7243e39d0509d0381e397"></a>Body&#160;</td><td class="fielddoc"><p>A one step calibration type. </p>
 <ul>
 <li>Put nodes on the body, ask user to do a T-Pose and face forward</li>
-<li>Call this command with <a class="el" href="#aaf848e040255da74c18999298c2cc872aed5e0f6654a7f19db345613cce26805e" title="Do both calibrate frame and zero.">CalibrationCommandTypes::All</a></li>
+<li>Send this command with <a class="el" href="#aaf848e040255da74c18999298c2cc872aed5e0f6654a7f19db345613cce26805e" title="Do both calibrate frame and zero.">CalibrationCommandTypes::All</a></li>
 </ul>
 <p>If tracking goes off after some time due to the nodes slipping</p><ul>
 <li>Ask user to do a T-Pose and face forward</li>
-<li>Call this command with <a class="el" href="#aaf848e040255da74c18999298c2cc872a78213bde5be2700452398b1c86019bc1" title="Only zero.">CalibrationCommandTypes::Zero</a> </li>
+<li>Send this command with <a class="el" href="#aaf848e040255da74c18999298c2cc872a78213bde5be2700452398b1c86019bc1" title="Only zero.">CalibrationCommandTypes::Zero</a> </li>
 </ul>
 </td></tr>
 </table>
